@@ -1,4 +1,4 @@
-# Basic Demo of Writing Tests in Javascript
+# Demo of Writing Basic Tests in Javascript
 A demonstration of TDD  in Javascript using a simple arithmetic problem
 
 This repo demonstrates writing basic tests in javascript. The test.spec.js file includes test definitions for a function which expects a positive integer or an array of positive integers.
